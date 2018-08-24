@@ -307,3 +307,6 @@ body.inside {
   max-width: 960px;     /* pelt added */
 }
 
+.filter-label {
+  display: none;
+}
