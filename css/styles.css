@@ -71,24 +71,25 @@ nav h1 a {
   text-transform: uppercase;
 }
 #breadcrumb {
-    padding: 5px;       /* pelt added */
-    list-style: none;
-    background-color: #eee;
-    font-size: 17px;
-    margin: 0;
-    max-width: 100%;
+  padding: 5px;       /* pelt added */
+  list-style: none;
+  background-color: #eee;
+  font-size: 17px;
+  margin: 0;
+  max-width: 100%;
+  text-align: left;
 }
 
 /* Display list items side by side */
 #breadcrumb li {
-    display: inline;
+  display: inline;
 }
 
 /* Add a slash symbol (/) before/behind each list item */
 #breadcrumb li+li:before {
-    padding: 8px;
-    color: black;
-    content: "/\00a0";
+  padding: 8px;
+  color: black;
+  content: "/\00a0";
 }
 
 /* Add a color to all links inside the list */
