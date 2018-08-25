@@ -242,7 +242,11 @@ nav h1 a {
 }
 
 #restaurant-address {
-  font-size: 12pt;
+  font-size: 14pt;
+  display: block;
+  font-style: normal;
+  padding-top: 7.5px;
+  padding-bottom: 7.5px;
 }
 #restaurant-cuisine {
   background-color: #333;
@@ -258,7 +262,7 @@ nav h1 a {
 #reviews-container {
   padding: 30px 40px 80px;
 }
-#reviews-container h2 {
+#reviews-container h3 {
   color: #f58500;
   font-size: 24pt;
   font-weight: 300;
@@ -309,4 +313,8 @@ body.inside {
 
 .filter-label {
   display: none;
+}
+
+#reviews-list p:first-of-type {
+  font-weight: bold;
 }
