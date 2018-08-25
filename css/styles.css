@@ -312,7 +312,9 @@ body.inside {
   max-width: 960px;     /* pelt added */
 }
 
-.filter-label {
+.filter-label,
+.map-aria-description,
+.restaurant-info-label {
   display: none;
 }
 
