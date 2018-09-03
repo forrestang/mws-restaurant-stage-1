@@ -42,6 +42,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 * Doug Brown's webinar was helpful [MWS Webinar](https://www.youtube.com/watch?v=92dtrNU1GQc&t=939s)
+* Brad Traversey's [VIDEO](https://www.youtube.com/watch?v=ksXwaWHCW6k&t=1662s) was helpful in understanding caching []
 
 
 
